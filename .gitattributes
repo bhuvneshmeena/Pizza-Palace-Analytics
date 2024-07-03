@@ -1,1 +1,13 @@
-Zomato_restaurant_price_prediction/zomato.csv filter=lfs diff=lfs merge=lfs -text
+# Force GitHub to recognize the language of specific files
+*.js linguist-language=JavaScript
+*.py linguist-language=Python
+*.java linguist-language=Java
+*.rb linguist-language=Ruby
+*.php linguist-language=PHP
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+*.sql linguist-language=SQL
+
+# Exclude documentation and vendor files from language statistics
+docs/* linguist-documentation=false
+vendor/* linguist-vendored
