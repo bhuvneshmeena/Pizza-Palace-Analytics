@@ -35,3 +35,6 @@ The dataset used in this project consists of several tables, including:
 * Open the Q1.sql to Q13.sql files and execute each query in sequence to generate the results.
 * Review the results of each query and analyze the insights gained from the pizza sales data.
 * Use the results to answer questions about customer behavior, pizza preferences, and revenue generation.
+
+## Results
+The results of each query are stored in separate CSV files (Q1.csv to Q13.csv) for easy analysis and visualization.
